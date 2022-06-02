@@ -7,9 +7,9 @@
 	"scripts": {
 		"start": "node server.js"
 	},
+	"author":"Nishant Jadhav",
 	"repository": {
 		"type": "git",
 		"url": "https://idontknow/todo.git"
-	},
-	"author":"Nishant Jadhav"
+	}
 }
